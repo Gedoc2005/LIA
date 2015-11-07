@@ -10,13 +10,10 @@ namespace Bygghemma
     {
         static void Main(string[] args)
         {
-            int y;
-            int j;
-
             for (int i = 1; i <= 100; i++)
             {
-                y = i % 3;
-                j = i % 5;
+                int y = i % 3;
+                int j = i % 5;
               
                 if (y == 0)
                 {
@@ -34,7 +31,6 @@ namespace Bygghemma
                 {
                     Console.Write("{0,-3}", i);
                 }
-
             }
         }
     }
