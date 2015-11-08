@@ -1,0 +1,6 @@
+c:\users\gedoc\documents\visual studio 2013\Projects\Bygghemma\Bygghemma\bin\Debug\Bygghemma.exe.config
+c:\users\gedoc\documents\visual studio 2013\Projects\Bygghemma\Bygghemma\bin\Debug\Bygghemma.exe
+c:\users\gedoc\documents\visual studio 2013\Projects\Bygghemma\Bygghemma\bin\Debug\Bygghemma.pdb
+c:\users\gedoc\documents\visual studio 2013\Projects\Bygghemma\Bygghemma\obj\Debug\Bygghemma.csprojResolveAssemblyReference.cache
+c:\users\gedoc\documents\visual studio 2013\Projects\Bygghemma\Bygghemma\obj\Debug\Bygghemma.exe
+c:\users\gedoc\documents\visual studio 2013\Projects\Bygghemma\Bygghemma\obj\Debug\Bygghemma.pdb
